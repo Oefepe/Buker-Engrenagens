@@ -41179,9 +41179,6 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
-        
-        
-        
         }
 
         /** common-rules **/
@@ -41322,9 +41319,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         .u-input
         {
-        border-width: 1px;
         borders: top right bottom left;
-        border-radius: 5px;
         }
         /** common-rules **/
 
@@ -41611,8 +41606,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-image:not(.u-shading) > .u-container-layout > .u-input,
         .u-input
         {
-        border-color: #b3b3b3;
-        background-color: #ffffff;
+        background-color: #f2f2f2;
         color: #000000;
         }
         /** color-rules **/
